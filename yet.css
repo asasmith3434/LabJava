@@ -1,0 +1,11 @@
+body
+{
+    color:hotpink;
+}
+h1 {font-family: Impact,Times,serif;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; }
+body {
+    background-image: url(https://live.staticflickr.com/4038/5145453784_67f8370f27_b.jpg);
+        background-position: center;
+    background-size: 400px;
+}
